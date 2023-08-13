@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nikshipta Pappu</h1>
-<h3 align="center">A determined Software Engineer from India</h3> 
+<h1 align="center">Hey👋, I'm Nikshipta</h1>
+<h3 align="center">A Full Stack Developer</h3> 
 
 <img align="right" alt="coding" width="400" src="https://cdn.lowgif.com/full/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif">
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nikshipta20@gmail.com**
 
-- ⚡ Fun fact **I am not naive😅**
+- ⚡ Fun fact **I am an extrovert when alone😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
