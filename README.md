@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Nikshipta</h1>
-<h3 align="center">A Full Stack Developer</h3> 
+<h3 align="center">A MERN Stack Developer</h3> 
 
 <img align="right" alt="coding" width="400" src="https://cdn.lowgif.com/full/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif">
 
